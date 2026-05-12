@@ -18,16 +18,6 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5561912065521148872
-      m_GuidHigh: 4564852217708161204
-    m_SerializedTextureGuid:
-      m_GuidLow: 13345555152694302182
-      m_GuidHigh: 9069564212440488011
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: QR
-    m_Texture: {fileID: 2800000, guid: 1eba55e6efb4b9344b581c3e9990dd7d, type: 3}
-  - m_SerializedGuid:
       m_GuidLow: 5644605577185621942
       m_GuidHigh: 5089697508724791215
     m_SerializedTextureGuid:
@@ -37,3 +27,13 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: House
     m_Texture: {fileID: 2800000, guid: 8d2dcd2328684a34398e1eb13701f86f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4948419565665645575
+      m_GuidHigh: 11049063501509975464
+    m_SerializedTextureGuid:
+      m_GuidLow: 10688279890459229623
+      m_GuidHigh: 6246888905769473433
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: SS
+    m_Texture: {fileID: 2800000, guid: 72c5fdb765ee945499d5b7c35c68b156, type: 3}
